@@ -1,0 +1,1 @@
+# Jogo-de-Dados-em-Next.js

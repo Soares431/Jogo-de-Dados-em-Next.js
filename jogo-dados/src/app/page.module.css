@@ -1,0 +1,15 @@
+.img {
+  width: 100px;
+  height: auto;
+}
+
+.dado {
+  display: flex;
+  gap: 3px;
+}
+
+.jogador {
+  display: flex;
+  gap: 8px;
+  
+}
